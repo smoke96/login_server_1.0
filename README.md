@@ -1,5 +1,5 @@
-login_server_1.0
+login server 1.0 ( BETA 2.0 )
 ================
-author: Sm•ke<br>
+<b>Author: Sm•ke</b><br>
 data: 13/09/2013<br>
 skype: alex.peruso<br>
